@@ -14,7 +14,7 @@ watercan should be in 5-th slot and eventually in the last one will be plant to 
 1-st slot for scissors
 6-th slot for  plants
 
-ALSO YOU NEED TO MAKE SCREENSHOTS OF SOIL WITH READY PLANT, EMPTY SOIL AND EMPTY SOIL
+ALSO YOU NEED TO MAKE SCREENSHOTS OF SOIL WITH READY PLANT, EMPTY SOIL AND EMPTY SLOT
 
 
 PC WILL BE OCCUPIED WHILE USING THIS PROGRAM
