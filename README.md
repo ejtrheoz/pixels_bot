@@ -10,6 +10,9 @@ So, there are 2 main files:
 1. main_plant.py for planting fields
 you should put in 1,2,3,4 slots the seeds( of scrarrots for example)
 watercan should be in 5-th slot and eventually in the last one will be plant to eat it for energy
-2.main_gather.py
+2. main_gather.py
 1-st slot for scissors
 6-th slot for  plants
+
+ALSO YOU NEED TO MAKE SCREENSHOTS OF SOIL WITH READY PLANT, EMPTY SOIL AND EMPTY SOIL
+PC WILL BE OCCUPIED WHILE USING THIS PROGRAM
