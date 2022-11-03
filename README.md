@@ -15,4 +15,6 @@ watercan should be in 5-th slot and eventually in the last one will be plant to 
 6-th slot for  plants
 
 ALSO YOU NEED TO MAKE SCREENSHOTS OF SOIL WITH READY PLANT, EMPTY SOIL AND EMPTY SOIL
+
+
 PC WILL BE OCCUPIED WHILE USING THIS PROGRAM
